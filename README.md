@@ -1,0 +1,1 @@
+**Primary Code for sCREDIT-seq sgRNA Assignment and Downstream Analysis**
